@@ -24,6 +24,11 @@ The objective of this lab was to demonstrate how credentials can be captured by 
 * The username and password were visible in the packet details.
 * This demonstrates why FTP is considered insecure and should be replaced with secure alternatives such as SFTP or FTPS.
 
+## Screenshots
+
+![Wireshark Capture](images/Fig 1.1.png)
+
+
 ---
 
 ## Lab 2 - IPsec Tunneling
