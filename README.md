@@ -31,6 +31,16 @@ The objective of this lab was to demonstrate how credentials can be captured by 
 
 ![FTP Logging](images/Fig1.2.png)
 ### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig1.3.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig1.4.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig1.5.png)
+### Fig 1-2: Logging into the FTP server 
+
 ---
 
 ## Lab 2 - IPsec Tunneling
@@ -73,6 +83,36 @@ show vpn flow
 
 * VPN traffic was visible and successfully encrypted.
 * The tunnel status displayed a green indicator, confirming a successful VPN connection.
+
+![FTP Logging](images/Fig2.1.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.2.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.3.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.4.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.5.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.6.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.7.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.8.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.9.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig2.10.png)
+### Fig 1-2: Logging into the FTP server 
 
 ---
 
@@ -141,6 +181,33 @@ Secret55
 * Pageant successfully managed the private key.
 * SSH authentication was completed using RSA keys instead of a password.
 * Passwordless login was successfully achieved after configuration.
+
+![FTP Logging](images/Fig3.1.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.2.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.3.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.4.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.5.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.6.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.7.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.8.png)
+### Fig 1-2: Logging into the FTP server 
+
+![FTP Logging](images/Fig3.9.png)
+### Fig 1-2: Logging into the FTP server 
 
 ---
 
