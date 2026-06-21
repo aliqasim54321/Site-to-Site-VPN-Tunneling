@@ -26,7 +26,7 @@ The objective of this lab was to demonstrate how credentials can be captured by 
 
 ## Screenshots
 
-![Wireshark Capture](images/Fig 1.1.png)
+![Wireshark Capture](images/Fig-1.1.png)
 
 
 ---
