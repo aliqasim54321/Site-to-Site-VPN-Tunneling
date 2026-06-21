@@ -26,9 +26,11 @@ The objective of this lab was to demonstrate how credentials can be captured by 
 
 ## Screenshots
 
-![Wireshark Capture](images/Fig-1.1.png)
+![Wireshark Capture](images/Fig1.1.png)
+### Fig 1-1: installed wireshark and click on WiFi 
 
-
+![FTP Logging](images/Fig1.2.png)
+###Fig 1-2: Logging into the FTP server 
 ---
 
 ## Lab 2 - IPsec Tunneling
