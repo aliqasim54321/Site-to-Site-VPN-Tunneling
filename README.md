@@ -33,13 +33,13 @@ The objective of this lab was to demonstrate how credentials can be captured by 
 ### Fig 1-2: Logging into the FTP server 
 
 ![FTP Logging](images/Fig1.3.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 1-3: Select the option of TCP Stream in the analyze option 
 
 ![FTP Logging](images/Fig1.4.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 1-4:: Select the IP address where it shows the message Login Successful 
 
 ![FTP Logging](images/Fig1.5.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 1-5: click on the login message and username and password is visible. 
 
 ---
 
@@ -84,35 +84,35 @@ show vpn flow
 * VPN traffic was visible and successfully encrypted.
 * The tunnel status displayed a green indicator, confirming a successful VPN connection.
 
-![FTP Logging](images/Fig2.1.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.1.png)
+### Fig 2-1: showing the topology for site to site VPN
 
-![FTP Logging](images/Fig2.2.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.2.png)
+### Fig 2-2: Showing the ip interface that are configured to the router. 
 
-![FTP Logging](images/Fig2.3.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.3.png)
+### Fig 2-3: Configuring the IpSec Crypto under IpSec Crypto 
 
-![FTP Logging](images/Fig2.4.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.4.png)
+### Fig 2-4: Configuring the IKE Crypto Profile under Network Profiles 
 
-![FTP Logging](images/Fig2.5.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.5.png)
+### Fig 2-5: Under IKE Gateways the TorontoSite1 is been configured 
 
-![FTP Logging](images/Fig2.6.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.6.png)
+### Fig 2-6: In Interfaces we have to create  Tunnel1 and configure it  
 
-![FTP Logging](images/Fig2.7.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.7.png)
+### Fig 2-7: running command to initiate IKE Phase 1  
 
-![FTP Logging](images/Fig2.8.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.8.png)
+### Fig 2-8: running command to initiate IKE Phase 2
 
-![FTP Logging](images/Fig2.9.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.9.png)
+### Fig 2-9: Showing the VPN Traffic Flow 
 
-![FTP Logging](images/Fig2.10.png)
-### Fig 1-2: Logging into the FTP server 
+![FTP Logging](images/fig2.10.png)
+### Fig 2-10: Showing the Status of Tunnel Info 
 
 ---
 
@@ -183,31 +183,34 @@ Secret55
 * Passwordless login was successfully achieved after configuration.
 
 ![FTP Logging](images/Fig3.1.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-1: Creating the Putty Key Generator by giving the passphrase
 
 ![FTP Logging](images/Fig3.2.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-2: Saving the private Key in the local computer 
 
 ![FTP Logging](images/Fig3.3.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-3: Logging into the FTP server 
 
 ![FTP Logging](images/Fig3.4.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-4: created a directory of .ssh which is a hidden
 
 ![FTP Logging](images/Fig3.5.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-5: changing the permission to 700 of the .ssh directory file. 
 
 ![FTP Logging](images/Fig3.6.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-6: Creating the folder Authorized_key in the home directory 
 
 ![FTP Logging](images/Fig3.7.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-7: Now adding the key in the putty gen  
 
 ![FTP Logging](images/Fig3.8.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-8: Need to enter the passphrase key in the putty gen 
 
 ![FTP Logging](images/Fig3.9.png)
-### Fig 1-2: Logging into the FTP server 
+### Fig 3-9: entering the username along with the ip address in the putty configuration 
+
+![FTP Logging](images/Fig3.10.png)
+### Fig 3-10: Accessing the Putty by entering the Username and password
 
 ---
 
