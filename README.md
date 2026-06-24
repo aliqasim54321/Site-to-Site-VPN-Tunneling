@@ -84,7 +84,7 @@ show vpn flow
 * VPN traffic was visible and successfully encrypted.
 * The tunnel status displayed a green indicator, confirming a successful VPN connection.
 
-![FTP Logging](images/fig2.1.png)
+![FTP Logging](images/Fig2.1.png)
 ### Fig 2-1: showing the topology for site to site VPN
 
 ![FTP Logging](images/fig2.2.png)
